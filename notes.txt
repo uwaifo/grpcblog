@@ -1,0 +1,2 @@
+after creating a .proto file i run
+$ protoc services.proto --go_out=plugins=grpc:.
